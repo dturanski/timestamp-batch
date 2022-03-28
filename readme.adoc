@@ -1,5 +1,7 @@
 # Timestamp Batch Task Application
 
+NOTE: This project has moved to the https://github.com/spring-cloud/spring-cloud-dataflow-samples/tree/main/timestamp-batch[spring-cloud-dataflow-samples] repo.
+
 To learn more about this application and the supported properties, please review the following link.
 
 include::spring-cloud-starter-task-timestamp-batch/README.adoc[]
